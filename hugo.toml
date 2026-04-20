@@ -42,7 +42,7 @@ ignoreErrors = ["error-disable-taxonomy"]
 
   # This theme will, by default, inject a made-with-line at the bottom of the page.
   # You can turn it off, but we would really appreciate if you don’t :-).
-  hideMadeWithLine = true
+  hideMadeWithLine = false
 
   # By default, if you want to read more than one blog post you have to always go
   # back to the /blog page.
@@ -54,7 +54,7 @@ ignoreErrors = ["error-disable-taxonomy"]
   # file. See [Hugo's Format function docs](https://gohugo.io/functions/format/)
   # for details. An example TOML config that uses [ISO
   # 8601](https://en.wikipedia.org/wiki/ISO_8601) format:
-  dateFormat = "d F Y"
+  dateFormat = "2026-01-02"
 
 # Configure markup highlighter to match "Bearblog" aesthetics, see
 # https://gohugo.io/configuration/markup/#highlight
@@ -74,4 +74,4 @@ ignoreErrors = ["error-disable-taxonomy"]
     LanguageCode = "en-US"
     contentDir = "content"
     [languages.en.params]
-      madeWith = "Made with [Hugo ʕ•ᴥ•ʔ Bear](https://github.com/janraasch/hugo-bearblog)"
+      madeWith = "2025 &copy; Hindi Media Media<br>Made with [Hugo ʕ•ᴥ•ʔ Bear](https://github.com/janraasch/hugo-bearblog)"
