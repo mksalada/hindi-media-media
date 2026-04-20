@@ -18,8 +18,8 @@ enableRobotsTXT = true
 disableKinds = ["taxonomy"]
 ignoreErrors = ["error-disable-taxonomy"]
 [permalinks]
-  blog = "/blog/:slug/"
-  tags = "/:slug/"
+  blog = "/:slug/"
+  tags = "tag/:slug/"
 
 [params]
   # The "description" of your website. This is used in the meta data of your generated html.
@@ -42,7 +42,7 @@ ignoreErrors = ["error-disable-taxonomy"]
 
   # This theme will, by default, inject a made-with-line at the bottom of the page.
   # You can turn it off, but we would really appreciate if you don’t :-).
-  # hideMadeWithLine = true
+  hideMadeWithLine = true
 
   # By default, if you want to read more than one blog post you have to always go
   # back to the /blog page.
@@ -54,7 +54,7 @@ ignoreErrors = ["error-disable-taxonomy"]
   # file. See [Hugo's Format function docs](https://gohugo.io/functions/format/)
   # for details. An example TOML config that uses [ISO
   # 8601](https://en.wikipedia.org/wiki/ISO_8601) format:
-  # dateFormat = "2006-01-02"
+  dateFormat = "2006-01-02"
 
 # Configure markup highlighter to match "Bearblog" aesthetics, see
 # https://gohugo.io/configuration/markup/#highlight
@@ -70,8 +70,8 @@ ignoreErrors = ["error-disable-taxonomy"]
 [languages]
   [languages.en]
     title = "Hindi Media Media"
-    languageName = "en-US 🇺🇸"
+    languageName = "EN-US"
     LanguageCode = "en-US"
-    contentDir = "blog"
+    contentDir = "content"
     [languages.en.params]
       madeWith = "Made with [Hugo ʕ•ᴥ•ʔ Bear](https://github.com/janraasch/hugo-bearblog)"
