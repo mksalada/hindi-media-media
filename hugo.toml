@@ -69,9 +69,9 @@ ignoreErrors = ["error-disable-taxonomy"]
 # see https://gohugo.io/content-management/multilingual/
 [languages]
   [languages.en]
-    title = "Bear Cub"
+    title = "Hindi Media Media"
     languageName = "en-US 🇺🇸"
     LanguageCode = "en-US"
-    contentDir = "content"
+    contentDir = "blog"
     [languages.en.params]
       madeWith = "Made with [Hugo ʕ•ᴥ•ʔ Bear](https://github.com/janraasch/hugo-bearblog)"
