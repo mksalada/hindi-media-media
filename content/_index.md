@@ -4,4 +4,4 @@ title = ""
 
 ## Lastest Collections
 
-{{ blog|limit:10 }}
+{{ posts|tag:sample|limit:10 }}
