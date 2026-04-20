@@ -64,3 +64,14 @@ ignoreErrors = ["error-disable-taxonomy"]
     lineNos = true
     lineNumbersInTable = false
     codeFences = true
+
+# Multilingual mode config. More for information about how to setup translation,
+# see https://gohugo.io/content-management/multilingual/
+[languages]
+  [languages.en]
+    title = "Bear Cub"
+    languageName = "en-US 🇺🇸"
+    LanguageCode = "en-US"
+    contentDir = "content"
+    [languages.en.params]
+      madeWith = "Made with [Hugo ʕ•ᴥ•ʔ Bear](https://github.com/janraasch/hugo-bearblog)"
