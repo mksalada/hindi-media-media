@@ -1,5 +1,8 @@
 +++
-title = "About Hindi Media Media"
+title = "About"
+slug = "about"
+menu = "main"
+weight = 20
 +++
 
 ![](https://lh3.googleusercontent.com/sitesv/AA5AbUBnpLr26Wqrvp4lRsPmIcwukybGqal-KQiGnDW7VE-9vw-hNU4nleVfD7X9sWT6Zvcf6FEPUxoa08S7jvNzBIYG8inYjYHrb9gEvYLlsXl0D645vNsgCw2WFFr31GhGoQ5dRppbcL8-E4SMNgKwbtYS1eqo8ImjZoDM4RbIIz7MDxf5K468uT3cGch4dmWU8cZWx5htbe9GtxnCLeNRPpxb19vlbBme2N2m1W0=w1280)
