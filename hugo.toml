@@ -76,3 +76,8 @@ ignoreErrors = ["error-disable-taxonomy"]
     contentDir = "content"
     [languages.en.params]
       madeWith = "2025 &copy; Hindi Media Media<br>Made with [Hugo ʕ•ᴥ•ʔ Bear](https://github.com/janraasch/hugo-bearblog)"
+
+[privacy]
+  [privacy.instagram]
+    disable = false
+    simple = false
