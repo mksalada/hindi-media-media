@@ -59,4 +59,4 @@ it becomes worship.
 Your creativity was never meant to glorify you.<br>
 It was always meant to point back to Him.
 
-![Original Instagram reel](https://www.instagram.com/reel/DSv2hboCVkW/)
+{{< instagram DSv2hboCVkW >}}
