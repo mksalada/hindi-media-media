@@ -3,6 +3,7 @@ title = "5 Things God Says To Creatives That Most Churches Never Talk About"
 slug = "5-things-god-says-to-creatives"
 date = 2026-04-21
 tags = ["sample"]
+description = ""
 +++
 
 > Content from an Instagram reel/post of [Trey J Pride](https://www.instagram.com/treyjpride) with a caption: ["5 Things God says to creatives... that most churches never talk about."](https://www.instagram.com/reel/DSv2hboCVkW/)
