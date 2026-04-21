@@ -1,6 +1,7 @@
 +++
 title = "5 Things God Says To Creatives That Most Churches Never Talk About"
 slug = "5-things-god-says-to-creatives"
+url = "5-things-god-says-to-creatives"
 date = 2026-04-21
 tags = ["collections"]
 description = ""
